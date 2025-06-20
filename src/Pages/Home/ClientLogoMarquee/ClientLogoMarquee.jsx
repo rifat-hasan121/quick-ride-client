@@ -14,7 +14,7 @@ const logos = [logo1, logo2, logo3, logo4, logo5, logo6, logo7];
 
 const ClientLogoMarquee = () => {
   return (
-    <section className="py-10 bg-gray-100">
+    <section className="py-10 ">
       <div className=" mx-auto px-4">
         <h2 className="font-bold text-center text-2xl mb-6">
           We've helped thousands of sales teams
